@@ -1,0 +1,30 @@
+[
+    {
+        "role": "Software Engineer",
+        "organisation": "Google",
+        "startDate": "sept, 2022",
+        "endDate": "Present",
+        "imageSrc": "google.png",
+        "experiences": [
+            "Developed a full-stack web application",
+            "Implemented authentication and authorization",
+            "Optimized database queries for performance"
+        ]
+    },
+    {
+        "role": "UI designer",
+        "organisation": "Microsoft",
+        "startDate": "aug, 2021",
+        "endDate": "aug, 2022",
+        "imageSrc": "microsoft.png",
+        "experiences": [] 
+    },
+    {
+        "role": "SWE Intern",
+        "organisation": "Netflix",
+        "startDate": "Apr, 2020",
+        "endDate": "Jun, 2020",
+        "imageSrc": "netflix.png",
+        "experiences": []
+    }
+]
